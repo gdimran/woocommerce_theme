@@ -1,0 +1,18 @@
+2020-12-31T13:10:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wooCommerce\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-12-31T13:57:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wooCommerce\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-12-31T14:08:50+00:00 CRITICAL require_once(): Failed opening required 'C:\Program Files\Ampps\www\wooCommerce\wp-content\plugins\stccommerce-elementor/controls/test-control.php' (include_path='.;C:\php\pear') in C:\Program Files\Ampps\www\wooCommerce\wp-content\plugins\stccommerce-elementor\index.php on line 103
+
+2020-12-31T14:42:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wooCommerce\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-12-31T15:03:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wooCommerce\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-12-31T15:05:14+00:00 CRITICAL require_once(): Failed opening required 'C:\Program Files\Ampps\www\wooCommerce\wp-content\plugins\stccommerce-elementor/controls/test-control.php' (include_path='.;C:\php\pear') in C:\Program Files\Ampps\www\wooCommerce\wp-content\plugins\stccommerce-elementor\index.php on line 103
+
+2020-12-31T15:06:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wooCommerce\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-12-31T15:10:29+00:00 CRITICAL require_once(): Failed opening required 'C:\Program Files\Ampps\www\wooCommerce\wp-content\plugins\stccommerce-elementor/controls/test-control.php' (include_path='.;C:\php\pear') in C:\Program Files\Ampps\www\wooCommerce\wp-content\plugins\stccommerce-elementor\index.php on line 103
+
+2020-12-31T15:47:39+00:00 CRITICAL require_once(): Failed opening required 'C:\Program Files\Ampps\www\wooCommerce\wp-content\plugins\stccommerce-elementor/controls/test-control.php' (include_path='.;C:\php\pear') in C:\Program Files\Ampps\www\wooCommerce\wp-content\plugins\stccommerce-elementor\index.php on line 111
+

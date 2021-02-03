@@ -1,0 +1,10 @@
+2021-01-13T04:08:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wooCommerce\wp-includes\Requests\Transport\cURL.php on line 463
+
+2021-01-13T06:04:30+00:00 CRITICAL syntax error, unexpected 'fa' (T_STRING), expecting ';' in C:\Program Files\Ampps\www\wooCommerce\wp-content\themes\stc-commerce\inc\woocommerce.php on line 226
+
+2021-01-13T10:24:11+00:00 CRITICAL syntax error, unexpected ')' in C:\Program Files\Ampps\www\wooCommerce\wp-content\plugins\stccommerce-elementor\widgets\products.php on line 100
+
+2021-01-13T10:50:04+00:00 CRITICAL syntax error, unexpected 'ture' (T_STRING), expecting ',' or ';' in C:\Program Files\Ampps\www\wooCommerce\wp-content\plugins\stccommerce-elementor\widgets\products.php on line 126
+
+2021-01-13T12:44:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wooCommerce\wp-includes\Requests\Transport\cURL.php on line 163
+
